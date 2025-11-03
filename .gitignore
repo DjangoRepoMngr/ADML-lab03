@@ -173,6 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Ignore local dataset and editor settings
-/dataset/
+# Ignore editor settings
 .vscode/
